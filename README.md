@@ -20,13 +20,13 @@ The goal of this project was to:
 ### 1️⃣ Simplified Version – *Chiller 2 & Chiller 3 Models*
 - Focused on two specific chillers for quicker analysis.
 - Includes basic data cleaning, regression modeling, and feature ranking.
-- [View Notebook → **`Chill 2 and 3 models.ipynb`**](https://github.com/charmrain/2-transaction/blob/main/Chill%202%20and%203%20models.ipynb)
+- [View Notebook → **`Chill 2 and 3 models.ipynb`**](https://github.com/charmrain/chiller-energy-prediction/blob/main/Chill%202%20and%203%20models.ipynb)
 
 ### 2️⃣ Detailed Version – *Chiller 1 Investigation*
 - Includes **in-depth data exploration**.
 - Feature engineering for improved model performance.
 - Model testing and evaluation metrics comparison.
-- [View Notebook → **`investigation and linear model for energy data.ipynb`**](https://github.com/charmrain/2-transaction/blob/main/investigation%20and%20linear%20model%20for%20energy%20data.ipynb)
+- [View Notebook → **`investigation and linear model for energy data.ipynb`**](https://github.com/charmrain/chiller-energy-prediction/blob/main/investigation%20and%20linear%20model%20for%20energy%20data.ipynb)
 
 ---
 
@@ -71,7 +71,7 @@ The goal of this project was to:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/charmrain/2-transaction.git
+    git clone https://github.com/charmrain/chiller-energy-prediction.git
     ```
 
 2. Open the notebooks in Jupyter:
