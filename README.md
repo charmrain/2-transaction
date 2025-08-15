@@ -1,7 +1,7 @@
-# ❄️ Chiller Energy Consumption Prediction – IKEA China 2022
+# ❄️ Chiller Energy Consumption Prediction – IKEA An Asian Country 2022
 
 This project uses regression models to **predict the energy consumption of chillers** and **identify key influencing factors**.  
-The dataset is based on **IKEA China energy usage in 2022**.
+The dataset is based on **IKEA An Asian Country energy usage in 2022**.
 
 ---
 
@@ -93,5 +93,5 @@ This project is released under the [MIT License](LICENSE).
 
 ## 🙌 Acknowledgments
 
-- IKEA China for providing the dataset (2022).
+- IKEA An Asian Country for providing the dataset (2022).
 - Open-source Python data science libraries.
